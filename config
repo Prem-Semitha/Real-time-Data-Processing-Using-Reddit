@@ -1,0 +1,14 @@
+[DATA_PRODUCER]
+ip = localhost
+port = 8080
+client_id = PL6qJP3o5jMeCQmJID09Bg
+client_secret = eqXz-QkjSZERmBhfexIZhHa92BzUlg
+user_agent = dbt-proj
+
+[DB]
+ip = localhost
+port = 3306
+database = tcejorp
+username = root
+password = root
+
